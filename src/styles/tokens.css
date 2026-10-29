@@ -1,0 +1,6 @@
+:root{
+  --bg:#f4ece1; --surface:#ebdfd0; --card:#f9f3ea; --ink:#2f2118; --muted:#7a675a;
+  --line:#e0d3c3; --brand:#4a2f22; --brand-ink:#f9f3ea;
+  --serif:'Newsreader',Georgia,serif; --sans:'Inter',system-ui,sans-serif;
+  --r-sm:8px; --r-md:14px; --r-pill:999px; --wrap:1120px;
+}
